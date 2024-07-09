@@ -1,0 +1,14 @@
+{
+  "name": "jsoppositesattract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "eyad",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^2.0.1"
+  }
+}
